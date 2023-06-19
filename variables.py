@@ -4,4 +4,6 @@ third = 400
 
 result1 = first + second + third
 
-result
+average = result1/3
+
+print(average)
