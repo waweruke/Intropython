@@ -7,3 +7,7 @@ result1 = first + second + third
 average = result1/3
 
 print(average)
+
+
+
+
